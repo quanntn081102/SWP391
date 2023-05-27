@@ -1,0 +1,9 @@
+.header .middle-header {
+  background: rgba(255, 255, 255, 0.84);
+  padding: 18px 0;
+  position: relative;
+}
+
+.header .logo {
+  display: inline-block;
+  overflow: hidden;
