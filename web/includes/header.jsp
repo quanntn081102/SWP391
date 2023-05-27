@@ -23,11 +23,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-2 d-lg-flex d-none header-right justify-content-end gap-3">
-                    <i class="fa-regular fa-user fa-lg"></i>
-                    <i class="fa-regular fa-heart fa-lg"></i>
-                    <i class="fa-solid fa-cart-plus fa-lg"></i>
-                </div>
             </div>
         </div>
     </div>
